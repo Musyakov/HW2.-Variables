@@ -61,6 +61,6 @@ public class Main {
         System.out.println("Total number of workers is " + workersNumber + " people");
         workersNumber = workersNumber + 94;
         workTime = totalTime / workersNumber;
-        System.out.println("In the case of having 94 workers more, " + workTime + " work hours for each could be devided.");
+        System.out.println("In the case of having 94 workers more, " + workTime + " work hours for each could be devided");
     }
 }
