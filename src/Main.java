@@ -62,5 +62,5 @@ public class Main {
         workersNumber = workersNumber + 94;
         workTime = totalTime / workersNumber;
         System.out.println("In the case of having 94 workers more, " + workTime + " work hours for each could be devided.");
-    }
+    } 
 }
